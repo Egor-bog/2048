@@ -1,0 +1,5 @@
+export { default as initCells } from './initCells'
+export { moveCells, directions } from './moveCells'
+export { removeAndIncreaseCells, scoreSum } from './removeAndIncreaseCells'
+export { populateField } from './populateField'
+export {  bestScoreF } from './localStorage'
